@@ -3,13 +3,13 @@ Project: e-commerce app
 Document Version: 2.0 — Revised after execution
 Author: Olena Onyshkiv
 Original Date: 15/08/2026
-Revision Date: 2/10/2026
-App under test: ecommerce-app (Vue 3 + TypeScript front end, FakeStore API as backend)
+Revision Date: 02/10/2026
+App under test: ecommerce-app (Vue 3 + TypeScript front end, FakeStore API as backend) [the link to be added]
 
 Revision History
 Version Date Change
 1.0 15/08/2026 Initial plan
-2.0 24/08/2026 Scope reduced to match executed testing. Home view, product detail, category filter, and accessibility moved to "Not tested in this cycle (deferred)". Environment updated to Chrome 152. Test approach corrected to reflect what was actually performed.
+2.0 02/10/2026 Scope reduced to match executed testing. Home view, product detail, category filter, and accessibility moved to "Not tested in this cycle (deferred)". Environment updated to Chrome 152. Test approach corrected to reflect what was actually performed.
 
 1. Introduction
    This Test Plan defines the testing strategy, scope, environment, and deliverables for the e-commerce web application built with Vue 3, TypeScript, and the FakeStore API. Version 2.0 reflects the scope as executed and is issued after the testing cycle, alongside the Test Summary Report.
@@ -18,7 +18,7 @@ Version Date Change
    2.1 In Scope (tested)
    Functional:
    Login functionality — valid credentials, invalid credentials, empty fields
-   Protected routes — Wishlist and Cart access control (redirect when unauthenticated, access when authenticated)
+   Protected routes — Wishlist and Cart access control only (redirect when unauthenticated, access when authenticated)
    Session persistence after page refresh
    Logout functionality
    Protected route access after logout

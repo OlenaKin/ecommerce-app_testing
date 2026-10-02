@@ -1,6 +1,6 @@
 Test Summary Report — E-commerce App
 Project: e-commerce app
-Document Version: 1.1
+Document Version: 1.0
 Author: Olena Onyshkiv
 Date: 24/08/2026
 Related Document: Test Plan — E-commerce App (v1.0)

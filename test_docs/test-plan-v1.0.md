@@ -1,6 +1,6 @@
 Test Plan - E-commerce App
 Project: e-commerce app
-Document Version: 2.0
+Document Version: 1.0
 Author: Olena Onyshkiv
 Date: 15/08/2026
 
